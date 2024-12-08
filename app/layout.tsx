@@ -12,8 +12,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "AACK (Affluent Asset Commerce Konnect)",
-  description: "Securely Connecting Your Financial Future.",
+  title: "Horizon",
+  description: "Horizon is a modern banking platform for everyone.",
   icons: {
     icon: '/icons/logo.svg'
   }
